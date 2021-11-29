@@ -1,0 +1,15 @@
+body {
+     background: linear-gradient( #ffccff 0%, rgb(245, 129, 148) 100%);
+     color: #0000cc;
+    font-style: Arial;
+}
+
+p {
+
+    background: -webkit-linear-gradient(rgb(63, 140, 255), rgb(13, 0, 196));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
